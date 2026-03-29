@@ -1,0 +1,5 @@
+{
+  "name": "Lead Loom",
+  "description": "High-performance booking application integrated with Google Calendar and Gmail APIs.",
+  "requestFramePermissions": []
+}
